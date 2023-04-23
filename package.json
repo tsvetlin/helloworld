@@ -1,6 +1,6 @@
 {
   "name": "@svetlintanyi/helloworld",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "My first NPM Package",
   "main": "index.js",
   "scripts": {
